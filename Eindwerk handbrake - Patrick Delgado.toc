@@ -1,0 +1,17 @@
+\select@language {dutch}
+\contentsline {section}{\numberline {1}Wat is Handbrake?}{2}
+\contentsline {section}{\numberline {2}Handbrake geschiedenis}{2}
+\contentsline {subsection}{\numberline {2.1}Vorige versies}{2}
+\contentsline {subsection}{\numberline {2.2}MediaFork}{2}
+\contentsline {subsection}{\numberline {2.3}2007 - heden}{3}
+\contentsline {subsection}{\numberline {2.4}Features}{3}
+\contentsline {subsubsection}{\numberline {2.4.1}Encoding}{3}
+\contentsline {subsubsection}{\numberline {2.4.2}Video filtering}{5}
+\contentsline {subsubsection}{\numberline {2.4.3}Sources}{5}
+\contentsline {paragraph}{\numberline {2.4.3.1}DVD}{5}
+\contentsline {paragraph}{\numberline {2.4.3.2}Blu-ray Disk}{5}
+\contentsline {subsubsection}{\numberline {2.4.4}Support}{6}
+\contentsline {section}{\numberline {3}Hoofdstuk 3}{6}
+\contentsline {subsection}{\numberline {3.1}iets1}{6}
+\contentsline {subsection}{\numberline {3.2}iets2}{6}
+\contentsline {subsection}{\numberline {3.3}iets3}{6}

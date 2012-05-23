@@ -1,0 +1,8 @@
+cross-platform
+multithreaded
+transcoder
+LGPL
+Subversion
+H.264
+firmware
+Reverse engineering
