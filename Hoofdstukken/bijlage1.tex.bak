@@ -3,7 +3,7 @@
 \appendix
 \section{Bijlage 1: Versie Systeembeheer GIT}
 
-\subsection*{Installatie en gebruik}\ \\[12pt]
+\subsection*{Installatie en gebruik}\ \\[6pt]
 
 Voor het gebruiken van Git bash gebruiken we msygit. Na de installatie van het programma gebruiken we de "Git Bash" en gebruiken we volgende twee commando's om ons te kunne identificeren. Dit zal later zijn nut bewijzen.\\
 \includegraphics[width=0.7\textwidth]{git1.png}\\
@@ -33,12 +33,13 @@ Nu is het tijd om een repository te maken. Dit wordt gewoon gedaan op de Github 
 \includegraphics[width=0.7\textwidth]{git6.png}\\
 
 Terug in de Git Bash gebruiken we volgend commando om de repository nu volledig te linken aan ons systeem.\\
-\includegraphics[width=0.7\textwidth]{git7.png}\\
+\includegraphics[width=1\textwidth]{git7.png}\\
 
 Nu kunnen de bestanden naar de repository upgeload worden met het commando "git push origin master". Alle bestanden die in de eerdere commit stonden worden nu ge pushed naar de server voor online opslag.\\
-\includegraphics[width=0.7\textwidth]{git7.png}\\
+\includegraphics[width=0.7\textwidth]{git8.png}\\
 
-\subsection*{•}
+Om bestanden te verwijderen wordt het commando "git rm naambestand" om deze wijzing dan door te voeren worden gewoon de commando's "git commit -m 'boodschap' en "git push origin master" gebruikt.\\
+\includegraphics[width=0.7\textwidth]{git9.png}\\
 
 
 

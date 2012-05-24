@@ -18,4 +18,5 @@
 \contentsline {subsection}{\numberline {3.2}HandBrakeCLI}{9}
 \contentsline {subsubsection}{\numberline {3.2.1}Basis}{9}
 \contentsline {subsubsection}{\numberline {3.2.2}Presets}{9}
-\contentsline {section}{\numberline {A}Bijlage 1: Versie Systeembeheer GIT}{12}
+\contentsline {section}{\numberline {A}Bijlage 1: Versie Systeembeheer GIT}{11}
+\contentsline {section}{\numberline {A}Bijlage 2: Confgureren Mail-server}{14}
