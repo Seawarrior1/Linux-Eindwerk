@@ -1,0 +1,35 @@
+\label{Bijlage 1}
+
+\appendix
+\section{Bijlage 1: Versie Systeembeheer GIT}
+
+\subsection*{Installatie}\ \\[24pt]
+
+Voor het gebruiken van Git bash gebruiken we msygit. Na de installatie van het programma gebruiken we de "Git Bash" en gebruiken we volgende twee commando's om ons te kunne identificeren. Dit zal later zijn nut bewijzen.
+
+\begin{figure}[!hp]
+\centering
+\includegraphics[width=0.5\textwidth]{git1.png}
+\end{figure}
+
+Als volgende moet er een SSH Key gegenereerd worden. Deze zal zorgen voor de connectie tussen de documenten op de pc van de gebruiker en de online repository.
+
+Voor het maken van deze sleutel worden volgende commando gedaan.
+
+\begin{figure}[!hp]
+\centering
+\includegraphics[width=0.5\textwidth]{git2.png}
+\end{figure}
+
+Dit zal een folder .ssh aanmaken in de User directory met de bestanden (id-rsa en id-rsa.pub). Het .pub bestand zullen we later nodig hebben voor de online repository server later.
+
+In de windows explorer rechter muisklikken we op de map die we willen linken aan de online repository en kiezen we "Git Bash Here". Dit zal de Git Bash rechtstreeks openen met de link naar deze map en geven we het commando "git init" in. Dit zal de map in een git repository omvormen. In de map zelf wordt ook de map .git aangemaakt (normaal als verborgen), als deze verwijderd wordt zal de hoofdmap niet langer als een Git repository gezien worden.
+
+Met het commando "git status" krijgen we een lijst van alle nieuwe, aangepaste of verwijderde bestanden te zien die nog niet doorgevoerd zijn naar de online repository (deze is momenteel nog niet aangemaakt maar hier wordt later op terug gekomen).
+
+\begin{figure}[!hp]
+\centering
+\includegraphics[width=0.5\textwidth]{git3.png}
+\end{figure}
+
+Om de volledi
