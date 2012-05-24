@@ -7,4 +7,6 @@
 
 Mutt is een opensource-, tekstgebaseerde e-mailclient en is beschikbaar voor Linux en Unix. Het werd oorspronkelijk ontworpen door Michael Elkins en is in 1995 vrijgegeven onder de GNU General Public License. Momenteel wordt het programma beheerd via de Mutt Development Mailing List. Mutt wordt beschouwd als een zuivere MUA (Mail User Agent) omdat het niet zelfstandig e-mails kan versturen, hiervoor moet het steunen op een Mailserver of MTA (Mail Transfer Agent). Mutt ondersteunt kleurenterminals, POP3, IMAP, MIME, S/MIME, PGP/GPG, threaded sorteren en is erg configureerbaar. Doordat Mutt weinig geheugen vereist, compact en niet-grafisch is, is het programma geschikt voor het gebruik op eenvoudige systemen en via trage verbindingen. Omwille van de krachtige configuratiemogelijkheden is het programma populair in Unixomgevingen. Mutt is ontwikkeld naar analogie met het gelijkaardige tekstgebaseerde Unix-e-mailprogramma Elm.\\
 
-\subsection*{Installatie}\ \\
+\subsection*{Installatie Ubuntu}\ \\
+
+In de terminal wordt volgend commando ingegeven: "apt-get install mutt", door dit te laten runnen zal het de package downloaden en vervolgens installeren. Na het instaleren geef het commando "mutt" en kan er begonnen worden met het configureren.

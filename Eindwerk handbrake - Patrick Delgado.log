@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.21)  24 MAY 2012 13:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.21)  24 MAY 2012 14:26
 entering extended mode
 **Eindwerk*handbrake*-*Patrick*Delgado.tex
 
@@ -561,8 +561,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 10--96
+Underfull \hbox (badness 10000) in paragraph at lines 14--96
 
  []
 
@@ -578,10 +588,10 @@ AED: lastpage setting LastPage
 ("D:\School Stuff\Lessen\TIN 2011-2012\Linux - Unix\Eindwerk\Eindwerk Linux (Ha
 ndbrake)\Eindwerk handbrake - Patrick Delgado.aux") ) 
 Here is how much of TeX's memory you used:
- 3036 strings out of 494045
- 44327 string characters out of 3145963
+ 3040 strings out of 494045
+ 44381 string characters out of 3145963
  196009 words of memory out of 3000000
- 6244 multiletter control sequences out of 15000+200000
+ 6248 multiletter control sequences out of 15000+200000
  9618 words of font info for 34 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  28i,12n,43p,1013b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -592,7 +602,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Eindwerk handbrake - Patrick Delgado.pdf" (16 pages, 701264 
+Output written on "Eindwerk handbrake - Patrick Delgado.pdf" (16 pages, 702463 
 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
