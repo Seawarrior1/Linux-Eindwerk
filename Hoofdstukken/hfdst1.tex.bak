@@ -1,9 +1,9 @@
 \label{Hoofdstuk 1}
 
-\begin{sectionbox}{Wat is Handbrake?}\end{sectionbox}
+\begin{sectionbox}{Wat is HandBrake?}\end{sectionbox}
 
-Handbrake is een voor algemeen gebruik, open-source en cross-platform\index{cross-platform} wat betekend dat HandBrake zowel voor Windows, Linux en IOS beschrikbaar is, multithreaded\index{multithreaded} video transcoder\index{transcoder} software application.
-Handbrake was origineel ontwikkeld door titer in 2003 als een video transcoder voor het vergemakkelijken van het rippen van films van een DVD naar een data storage device. Sinds toen zijn er velen veranderingen en herzieningen gebeurd waardoor het vandaag de dag een zeer populair programma is onder de film fanaten. HandBrake maakt gebruik van vele van de LGPL\index{LGPL} bibliotheken (zie Tabel \ref{tab:linuxbibtable}) van het Linux platform en is geschreven in de Objective-C, C en C\# talen.\\
+Handbrake is een voor algemeen gebruik, open-source\index{Open-Source} en cross-platform\index{Cross-platform}, multithreaded\index{Multithreaded} video transcoder\index{Transcoder} software application\index{Application}. HandBrake is zowel voor Windows, Linux en IOS beschikbaar.
+HandBrake was oorspronkelijk ontwikkeld door titer in 2003 als een video transcoder die het rippen van films op DVD naar een data storage device vergemakkelijkt. Sindsdien zijn er vele veranderingen en herzieningen gedaan waardoor het vandaag de dag een zeer populair programma is onder de filmfanaten. HandBrake maakt gebruik van vele LGPL\index{LGPL} bibliotheken (zie Tabel \ref{tab:linuxbibtable}) van het Linux platform en is geschreven in de Objective-C, C en C\# talen.\\
 
 \begin{table}[!h]
 \centering

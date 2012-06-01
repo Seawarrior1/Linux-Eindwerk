@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.21)  24 MAY 2012 14:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.21)  26 MAY 2012 10:41
 entering extended mode
 **Eindwerk*handbrake*-*Patrick*Delgado.tex
 
@@ -193,24 +193,21 @@ Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 \@indexfile=\write4
 
 Writing index file Eindwerk*handbrake*-*Patrick*Delgado.idx
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
-Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count95
-)
+
 ("D:\School Stuff\Lessen\TIN 2011-2012\Linux - Unix\Eindwerk\Eindwerk Linux (Ha
 ndbrake)\Eindwerk handbrake - Patrick Delgado.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -248,16 +245,16 @@ LaTeX Font Info:    ... okay on input line 40.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count96
+\scratchcounter=\count95
 \scratchdimen=\dimen117
 \scratchbox=\box31
-\nofMPsegments=\count97
-\nofMParguments=\count98
+\nofMPsegments=\count96
+\nofMParguments=\count97
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count99
+\MPscratchCnt=\count98
 \MPscratchDim=\dimen118
-\MPnumerator=\count100
-\makeMPintoPDFobject=\count101
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
 \everyMPtoPDFconversion=\toks21
 )
 Package lastpage Info: Please have a look at the pageslts package at
@@ -266,19 +263,19 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 40.
+(lastpage)             ! on input line 39.
  <./Afbeeldingen/linux-logo.jpg, id=1, 321.2pt x 136.51pt>
 File: ./Afbeeldingen/linux-logo.jpg Graphic file (type jpg)
 
 <use ./Afbeeldingen/linux-logo.jpg>
-Package pdftex.def Info: ./Afbeeldingen/linux-logo.jpg used on input line 44.
+Package pdftex.def Info: ./Afbeeldingen/linux-logo.jpg used on input line 43.
 (pdftex.def)             Requested size: 117.43875pt x 49.91008pt.
 
 <./Afbeeldingen/phl-logo.jpg, id=2, 396.48125pt x 353.32pt>
 File: ./Afbeeldingen/phl-logo.jpg Graphic file (type jpg)
 
 <use ./Afbeeldingen/phl-logo.jpg>
-Package pdftex.def Info: ./Afbeeldingen/phl-logo.jpg used on input line 47.
+Package pdftex.def Info: ./Afbeeldingen/phl-logo.jpg used on input line 46.
 (pdftex.def)             Requested size: 164.41711pt x 146.52263pt.
 
 <./Afbeeldingen/Handbrake-logo.png, id=3, 128.48pt x 128.48pt>
@@ -286,13 +283,13 @@ File: ./Afbeeldingen/Handbrake-logo.png Graphic file (type png)
 
 <use ./Afbeeldingen/Handbrake-logo.png>
 Package pdftex.def Info: ./Afbeeldingen/Handbrake-logo.png used on input line 5
-3.
+2.
 (pdftex.def)             Requested size: 46.97836pt x 46.97812pt.
 File: ./Afbeeldingen/Handbrake-logo.png Graphic file (type png)
 
 <use ./Afbeeldingen/Handbrake-logo.png>
 Package pdftex.def Info: ./Afbeeldingen/Handbrake-logo.png used on input line 5
-3.
+2.
 (pdftex.def)             Requested size: 46.97836pt x 46.97812pt.
  [1
 
@@ -344,19 +341,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no « in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no « in font cmr12!
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 [4]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no « in font cmr12!
-
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
@@ -403,6 +393,11 @@ Overfull \hbox (2.57767pt too wide) in paragraph at lines 3--4
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no « in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
 [9])
 ("D:\School Stuff\Lessen\TIN 2011-2012\Linux - Unix\Eindwerk\Eindwerk Linux (Ha
 ndbrake)\Eindwerk handbrake - Patrick Delgado.bbl") [10]
@@ -465,7 +460,7 @@ File: ./Afbeeldingen/git4.png Graphic file (type png)
 
 <use ./Afbeeldingen/git4.png>
 Package pdftex.def Info: ./Afbeeldingen/git4.png used on input line 25.
-(pdftex.def)             Requested size: 328.82707pt x 52.42792pt.
+(pdftex.def)             Requested size: 234.8775pt x 37.44556pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
@@ -475,7 +470,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--26
 (Handbrake)/Afbeeldingen/git1.png> <D:/School Stuff/Lessen/TIN 2011-2012/Linux 
 - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbeeldingen/git2.png> <D:/School St
 uff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbee
-ldingen/git3.png>] <./Afbeeldingen/git5.png, id=58, 328.22626pt x 53.44969pt>
+ldingen/git3.png>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 27.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 27.
+ <./Afbeeldingen/git5.png, id=58, 328.22626pt x 53.44969pt>
 File: ./Afbeeldingen/git5.png Graphic file (type png)
 
 <use ./Afbeeldingen/git5.png>
@@ -484,12 +486,6 @@ Package pdftex.def Info: ./Afbeeldingen/git5.png used on input line 28.
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
- []
-
-
-Overfull \hbox (15.99364pt too wide) in paragraph at lines 30--31
-[]\OT1/cmr/m/n/12 Om ver-der te kun-nen moe-ten we ons een re-po-si-tory ma-ken
-. Op de site "www.github.com"kan
  []
 
 
@@ -530,26 +526,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
  []
 
-[12 <D:/School Stuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Linux 
-(Handbrake)/Afbeeldingen/git4.png> <D:/School Stuff/Lessen/TIN 2011-2012/Linux 
-- Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbeeldingen/git5.png> <D:/School St
-uff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbee
-ldingen/git6.png> <D:/School Stuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/E
-indwerk Linux (Handbrake)/Afbeeldingen/git7.png>]
-<./Afbeeldingen/git9.png, id=66, 210.03468pt x 169.38281pt>
+<./Afbeeldingen/git9.png, id=62, 210.03468pt x 169.38281pt>
 File: ./Afbeeldingen/git9.png Graphic file (type png)
 
 <use ./Afbeeldingen/git9.png>
 Package pdftex.def Info: ./Afbeeldingen/git9.png used on input line 42.
-(pdftex.def)             Requested size: 328.82707pt x 265.18463pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-) [13 <D:/School Stuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Linu
-x (Handbrake)/Afbeeldingen/git8.png> <D:/School Stuff/Lessen/TIN 2011-2012/Linu
-x - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbeeldingen/git9.png>]
+(pdftex.def)             Requested size: 234.8775pt x 189.41797pt.
+ [12 <D:/School Stuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Linux
+ (Handbrake)/Afbeeldingen/git4.png> <D:/School Stuff/Lessen/TIN 2011-2012/Linux
+ - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbeeldingen/git5.png> <D:/School S
+tuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbe
+eldingen/git6.png> <D:/School Stuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/
+Eindwerk Linux (Handbrake)/Afbeeldingen/git7.png> <D:/School Stuff/Lessen/TIN 2
+011-2012/Linux - Unix/Eindwerk/Eindwerk Linux (Handbrake)/Afbeeldingen/git8.png
+>] [13 <D:/School Stuff/Lessen/TIN 2011-2012/Linux - Unix/Eindwerk/Eindwerk Lin
+ux (Handbrake)/Afbeeldingen/git9.png>])
 ("D:\School Stuff\Lessen\TIN 2011-2012\Linux - Unix\Eindwerk\Eindwerk Linux (Ha
 ndbrake)\Hoofdstukken\Bijlage2.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
@@ -571,12 +562,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 14--96
-
- []
-
-[14]
+) [14]
 ("D:\School Stuff\Lessen\TIN 2011-2012\Linux - Unix\Eindwerk\Eindwerk Linux (Ha
 ndbrake)\Eindwerk handbrake - Patrick Delgado.ind" [15
 
@@ -588,24 +574,25 @@ AED: lastpage setting LastPage
 ("D:\School Stuff\Lessen\TIN 2011-2012\Linux - Unix\Eindwerk\Eindwerk Linux (Ha
 ndbrake)\Eindwerk handbrake - Patrick Delgado.aux") ) 
 Here is how much of TeX's memory you used:
- 3040 strings out of 494045
- 44381 string characters out of 3145963
- 196009 words of memory out of 3000000
- 6248 multiletter control sequences out of 15000+200000
+ 2880 strings out of 494045
+ 42572 string characters out of 3145963
+ 104475 words of memory out of 3000000
+ 6089 multiletter control sequences out of 15000+200000
  9618 words of font info for 34 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 28i,12n,43p,1013b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,12n,43p,1013b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Eindwerk handbrake - Patrick Delgado.pdf" (16 pages, 702463 
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "Eindwerk handbrake - Patrick Delgado.pdf" (16 pages, 710249 
 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

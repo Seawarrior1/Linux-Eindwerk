@@ -1,6 +1,8 @@
-\indexentry{cross-platform}{4}
-\indexentry{multithreaded}{4}
-\indexentry{transcoder}{4}
+\indexentry{Open-Source}{4}
+\indexentry{Cross-platform}{4}
+\indexentry{Multithreaded}{4}
+\indexentry{Transcoder}{4}
+\indexentry{Application}{4}
 \indexentry{LGPL}{4}
 \indexentry{Subversion}{4}
 \indexentry{Firmware}{4}
@@ -12,4 +14,7 @@
 \indexentry{Scaling}{7}
 \indexentry{Detelecine}{7}
 \indexentry{Cropping}{7}
+\indexentry{Importeren}{9}
+\indexentry{Hardocded}{9}
+\indexentry{Dropdownmenu}{9}
 \indexentry{Presets}{9}

@@ -5,22 +5,22 @@
 \subsection{Windows, Linux en IOS}
 
 \subsubsection{Installatie}
-Als eerste moeten we de overeenkomende versie van HandBrake downloaden van de officiële HandBrake website\cite{Download}. Hierna volgen we gewoon de instructies op het scherm voor de installatie en kunnen we beginnen met het instellen ervan.
 
+Eerst moeten we de overeenkomstige versie van HandBrake downloaden van de officiële HandBrake website\cite{Download}. Daarna volgen we gewoon de instructies op het scherm voor de installatie en kunnen we beginnen met het instellen ervan.
 
 \subsubsection{Gebruik}
-Via 'Source' importeren we een DVD genomen van de DVD-drive of kiezen we een bestand van een toegestaan input formaat. Hierna stellen we de destination folder en het output formaat in. Mochten er een ondertiteling hardcoded in het video-bestand moeten komen kan dit via het tabblad subtites. Een dropdown menu waar staat Foreign Audio Search geeft de mogelijkheid om naar de beschikbare ondertitels te zoeken en deze toe te voegen..
+
+Via 'Source' importeren\index{Importeren} we een DVD, afkomstig van de DVD-drive, of kiezen we een bestand van een toegestaan input formaat. Hierna stellen we de destination folder en het output formaat in. Als er een ondertiteling hardcoded\index{Hardocded} in het videobestand moet komen te staan, kan dat via het tabblad subtitels. Een dropdownmenu\index{Dropdownmenu} waar staat 'Foreign Audio Search' geeft de mogelijkheid om naar de beschikbare ondertitels te zoeken en die toe te voegen.
 
 \subsection{HandBrakeCLI}
 \subsubsection{Basis}
 
-Als eerste hebben we de simpele in en output via het commando: HandBrake CLI -i source -o destintation. Dit zal het source bestand encoden met volgende default waarden: 1000 Kbps MPEG-4 Visual video en 160 Kbps AAC-LC audio in MP4 formaat.
-
-Hiernaast is het ook mogelijk zelf waarden mee te geven om de default settings te overschrijven. HandBrakeCLI -i source -o destination -e x264 -q 20 -B 160
+Als eerste hebben we de simpele in- en output via het commando: HandBrake CLI -i source -o destintation. Dat zal het sourcebestand encoden met volgende standaard waarden: 1000 Kbps MPEG-4 Visual video en 160 Kbps AAC-LC audio in MP4 formaat.
+Daarnaast is het ook mogelijk zelf waarden mee te geven om de default settings te overschrijven. "HandBrakeCLI -i source -o destination -e x264 -q 20 -B 160"
 
 \subsubsection{Presets}
 
-Het is ook mogelijk om presets\index{Presets} te gebruiken. Dit wil zeggen dat alle settings en opties voor het output bestand al vooraf ge definieert staan en dus niet zelf geconfigureerd moeten worden om het gewenste resultaat te bekomen. Een voorbeeld hiervan is "HandBrakeCLI -i /Volumes/DVD -o movie.mp4 --preset="iPhone \& iPod Touch"" dus --preset="Preset Name" wordt toegevoegd.
+Presets\index{Presets} kunnen ook gebruikt worden. Dat wil zeggen dat alle settings en opties voor het output bestand al vooraf gedefinieerd staan en dus niet zelf geconfigureerd moeten worden om het gewenste resultaat te bekomen. Een voorbeeld hiervan is "HandBrakeCLI -i /Volumes/DVD -o movie.mp4 --preset="\ iPhone \& iPod Touch"\ "\ dus --preset="Preset Name" wordt toegevoegd.\\
 
-Om de hele lijst van presets te zien wordt het commando "HandBrakeCLI --preset-list" gebruikt en om alle mogelijk opties te zien wordt het commando "HandBrakeCLI -h" gebruikt.
+Om de hele lijst van presets te zien maakt men gebruik van het commando "HandBrakeCLI --preset-list" en om alle mogelijke opties te zien wordt het commando "HandBrakeCLI -h" gebruikt.
 \newpage

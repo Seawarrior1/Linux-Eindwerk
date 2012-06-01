@@ -1,14 +1,19 @@
 \begin{theindex}
 
+  \item Application, 4
+
+  \indexspace
+
   \item Compileerbare, 4
   \item Cropping, 7
-  \item cross-platform, 4
+  \item Cross-platform, 4
 
   \indexspace
 
   \item Decombing, 7
   \item Deinterlacing, 7
   \item Detelecine, 7
+  \item Dropdownmenu, 9
 
   \indexspace
 
@@ -20,11 +25,23 @@
 
   \indexspace
 
+  \item Hardocded, 9
+
+  \indexspace
+
+  \item Importeren, 9
+
+  \indexspace
+
   \item LGPL, 4
 
   \indexspace
 
-  \item multithreaded, 4
+  \item Multithreaded, 4
+
+  \indexspace
+
+  \item Open-Source, 4
 
   \indexspace
 
@@ -41,6 +58,6 @@
 
   \indexspace
 
-  \item transcoder, 4
+  \item Transcoder, 4
 
 \end{theindex}
